@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on J software.
+
 
 <!--
 **aaakch0316/aaakch0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://han-py.tistory.com/)](https://han-py.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaakch0316@gmail.com)](mailto:aaakch0316@gmail.com)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aaakch0316)](https://github.com/aaakch0316/)
