@@ -41,6 +41,8 @@ hr선:
 [![aaakch0316's github stats](https://github-readme-stats.vercel.app/api?username=aaakch0316&show_icons=true)](https://github.com/aaakch0316/)
 
 #
+<!--
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaakch)](https://solved.ac/aaakch)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaakch0316&layout=compact&show_icons=true)](https://github.com/aaakch0316/)
 
