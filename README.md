@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on J software.
-
+- 🌱 I’m currently learning fullstack
 
 <!--
 **aaakch0316/aaakch0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
